@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemitM</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="login_to_remitm_online">Login to RemitM Online</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+</resources>
